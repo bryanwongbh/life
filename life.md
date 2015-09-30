@@ -1,0 +1,34 @@
+@Bryan's life
+===============
+
+- 25/09/1987 Born
+- 1992-1993 Kindergarten (St. Joseph's)
+- 1994-1999 Primary School Education (St. Joseph's)
+- ~1998 First computer
+- 2000-2004 Secondary School Education (St. Joseph's)
+- 02/2005-05/2005 First job
+- 07/2005-07/2006 Pre-U Education - Foundation in Engineering @ Multimedia University
+- 07/2006-07/2010 Tertiary Education - Bachelor in Engineering (Hons), majoring in Electronics @ Multimedia University
+- 04/04/2009 First Facebook Post
+- 06/2009-09/2009 Software Developer Intern in Wavelet Solutions
+- 04/05/2010 [First Tweet](https://twitter.com/bryanwongbh/status/13343536493)
+- 2010-~ Salsa Dancing
+- 08/2010-04/2012 Analyst - Accenture Malaysia
+- 05/2012-09/2012 Pricing Analyst - Rocket Internet Malaysia (Lazada)
+- 01/10/2012-~ Treasury - CIMB Investment Bank Berhad
+- 23/05/2013 Launched [unconventional.co](http://www.unconventional.co/)
+- 30/05/2013-02/06/2013 First hike to Mt. Kinabalu
+- 29/07/2013 Launched [salsakl.com](http://www.salsakl.com)
+- 18/09/2013 Work on [Mewze](http://www.mewze.com)
+- 29/09/2013 Standard Chartered KL Marathon 2013
+- 11/02/2014 Launched my [portfolio page](http://www.bryanwongbh.com)
+- 17/02/2014 Started [Clean and Gleam](http://www.cleanandgleam.com.my)
+- 22/06/2014 Participated in Angel Hack KL 2014
+- 12/10/2014 Standard Chartered KL Marathon 2014
+- 14/03/2015 Viper Challenge 2015
+- 31/03/2015 Started YQuity Project
+- 04/04/2015-15/04/2015 Indochina Trip (Phnom Penh, Siem Reap, Bangkok, and Chiang Mai)
+- 14/05/2015-18/05/2015 Second hike to Mt. Kinabalu
+- 23/05/2015 Viper Arena 2015
+- 07/06/2015 Won Lean Startup Malaysia 2015 (SOFEA)
+- 27/08/2015-31/08/2015 Visited Guilin, China
