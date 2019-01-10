@@ -15,7 +15,8 @@
 - 2010-~ Salsa Dancing
 - 08/2010-04/2012 Analyst - Accenture Malaysia
 - 05/2012-09/2012 Pricing Analyst - Rocket Internet Malaysia (Lazada)
-- 01/10/2012-~ Treasury - CIMB Investment Bank Berhad
+- 10/2012-12/2016 Senior Associate - CIMB Investment Bank Berhad
+- 13/01/2017-~ Assistant Vice President - Sumitomo Mitsui Banking Corporation
 - 23/05/2013 Launched [unconventional.co](http://www.unconventional.co/)
 - 30/05/2013-02/06/2013 First hike to Mt. Kinabalu
 - 29/07/2013 Launched [salsakl.com](http://www.salsakl.com)
