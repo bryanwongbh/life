@@ -16,7 +16,6 @@
 - 08/2010-04/2012 Analyst - Accenture Malaysia
 - 05/2012-09/2012 Pricing Analyst - Rocket Internet Malaysia (Lazada)
 - 10/2012-12/2016 Senior Associate - CIMB Investment Bank Berhad
-- 13/01/2017-~ Assistant Vice President - Sumitomo Mitsui Banking Corporation
 - 23/05/2013 Launched [unconventional.co](http://www.unconventional.co/)
 - 30/05/2013-02/06/2013 First hike to Mt. Kinabalu
 - 29/07/2013 Launched [salsakl.com](http://www.salsakl.com)
@@ -33,3 +32,11 @@
 - 23/05/2015 Viper Arena 2015
 - 07/06/2015 Won Lean Startup Malaysia 2015 (SOFEA)
 - 27/08/2015-31/08/2015 Visited Guilin, China
+- 11/12/2016-28/12/2016 Visited South Island, New Zealand for the first time
+- 13/01/2017-~ Assistant Vice President - Sumitomo Mitsui Banking Corporation
+- 30/04/2017-01/05/2017 Travelled to Hanoi, Vietnam for the first time
+- 27/10/2017-10/11/2017 Travelled to Hokkaido, Japan, for the first time
+- 27/12/2017-31/12/2017 Obtained Advanced Open Water Diver's License in Koh Lipe
+- 24/03/2018-30/03/2018 Travelled to Jeju, South Korea for the first time
+- 07/08/2018-11/08/2018 Travelled to Hoi An, Vietnam with family for the first time
+- 29/10/2018-05/11/2018 Visited Yosemite National Park and San Francisco for the first time
