@@ -10,7 +10,7 @@
 - 07/2005-07/2006 Pre-U Education - Foundation in Engineering @ Multimedia University
 - 07/2006-07/2010 Tertiary Education - Bachelor in Engineering (Hons), majoring in Electronics @ Multimedia University
 - 04/04/2009 First Facebook Post
-- 06/2009-09/2009 Software Developer Intern in Wavelet Solutions
+- 06/2009-09/2009 Software Developer Intern in [Wavelet Solutions](https://wavelet.net)
 - 04/05/2010 [First Tweet](https://twitter.com/bryanwongbh/status/13343536493)
 - 2010-~ Salsa Dancing
 - 08/2010-04/2012 Analyst - Accenture Malaysia
@@ -19,14 +19,14 @@
 - 23/05/2013 Launched [unconventional.co](http://www.unconventional.co/)
 - 30/05/2013-02/06/2013 First hike to Mt. Kinabalu
 - 29/07/2013 Launched [salsakl.com](http://www.salsakl.com)
-- 18/09/2013 Work on [Mewze](http://www.mewze.com)
+- 09/2013-06/2015 Worked as Mewze Fashion Operations Lead
 - 29/09/2013 Standard Chartered KL Marathon 2013
 - 11/02/2014 Launched my [portfolio page](http://www.bryanwongbh.com)
-- 17/02/2014 Started [Clean and Gleam](http://www.cleanandgleam.com.my)
+- 17/02/2014 Worked on Clean and Gleam Web Development
 - 22/06/2014 Participated in Angel Hack KL 2014
 - 12/10/2014 Standard Chartered KL Marathon 2014
 - 14/03/2015 Viper Challenge 2015
-- 31/03/2015 Started YQuity Project
+- 03/2015-11/2015 Worked on YQuity Project
 - 04/04/2015-15/04/2015 Indochina Trip (Phnom Penh, Siem Reap, Bangkok, and Chiang Mai)
 - 14/05/2015-18/05/2015 Second hike to Mt. Kinabalu
 - 23/05/2015 Viper Arena 2015
@@ -35,8 +35,10 @@
 - 11/12/2016-28/12/2016 Visited South Island, New Zealand for the first time
 - 13/01/2017-~ Assistant Vice President - Sumitomo Mitsui Banking Corporation
 - 30/04/2017-01/05/2017 Travelled to Hanoi, Vietnam for the first time
+- 08/2017-05/2018 Worked on AnalyticsApp Project
 - 27/10/2017-10/11/2017 Travelled to Hokkaido, Japan, for the first time
 - 27/12/2017-31/12/2017 Obtained Advanced Open Water Diver's License in Koh Lipe
 - 24/03/2018-30/03/2018 Travelled to Jeju, South Korea for the first time
+- 05/2018-~ Work on Stockhub Project
 - 07/08/2018-11/08/2018 Travelled to Hoi An, Vietnam with family for the first time
 - 29/10/2018-05/11/2018 Visited Yosemite National Park and San Francisco for the first time
