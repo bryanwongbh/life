@@ -1,11 +1,7 @@
 @Bryan's life
 ===============
 
-- 25/09/1987 Born
-- 1992-1993 Kindergarten (St. Joseph's)
-- 1994-1999 Primary School Education (St. Joseph's)
 - ~1998 First computer
-- 2000-2004 Secondary School Education (St. Joseph's)
 - 02/2005-05/2005 First job
 - 07/2005-07/2006 Pre-U Education - Foundation in Engineering @ Multimedia University
 - 07/2006-07/2010 Tertiary Education - Bachelor in Engineering (Hons), majoring in Electronics @ Multimedia University
@@ -16,7 +12,7 @@
 - 08/2010-04/2012 Analyst - Accenture
 - 05/2012-09/2012 Pricing Analyst - Rocket Internet (Lazada)
 - 10/2012-12/2016 Senior Associate - CIMB Investment Bank
-- 23/05/2013 Launched [unconventional.co](http://www.unconventional.co/)
+- 23/05/2013 Launched [my blog](http://www.unconventional.co/)
 - 30/05/2013-02/06/2013 First hike to Mt. Kinabalu
 - 29/07/2013 Launched [salsakl.com](http://www.salsakl.com)
 - 09/2013-06/2015 Worked as Mewze Fashion Operations Lead
@@ -42,3 +38,5 @@
 - 05/2018-~ Work on Stockhub Project
 - 07/08/2018-11/08/2018 Travelled to Hoi An, Vietnam with family for the first time
 - 29/10/2018-05/11/2018 Visited Yosemite National Park and San Francisco for the first time
+- 29/02/2019 Updated my portfolio page to new [url](https://www.bryanwong.dev)
+- 01/03/2019 Moved my blog to a new [url](https://blog.bryanwong.dev)
